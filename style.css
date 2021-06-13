@@ -1,0 +1,19 @@
+.container{
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px
+}
+.center{
+    width: 500px;
+    margin: 0 auto;
+}
+.foto{
+    width: 200px;
+}
+.navigator li{
+    display: inline;
+    margin: 0 20px
+}
+
+
+
